@@ -51,7 +51,7 @@ par(mfcol=c(2,2))
 plot( smallDataSet$Date_Time, 
       smallDataSet$Global_active_power,
       type="l",
-      ylab="Global Active Power (kilowatts)",
+      ylab="Global Active Power",
       xlab="",
       sub="")
 
